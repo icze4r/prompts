@@ -1,5 +1,11 @@
 # prompts
 
+Learn how to use the models mentioned in the video: https://github.com/civitai/civitai/wiki/How-to-use-models
+AUTOMATIC1111 Github: https://github.com/AUTOMATIC1111/stable-diffusion-webui 
+
+Anything v4.5: https://huggingface.co/andite/anything-v4.0/blob/main/anything-v4.5.ckpt
+the VAE: https://huggingface.co/hakurei/waifu-diffusion-v1-4/blob/main/vae/kl-f8-anime2.ckpt
+
 Since YouTube's kinda-- y'know-- here are the prompts.
 
 For Michiru Kagemori:
