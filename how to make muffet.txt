@@ -1,0 +1,25 @@
+First, watch this video, we make a Muffet image in it:
+
+https://www.youtube.com/watch?v=X80IgfvDz_0
+
+Here's the workflow
+
+1. Install AUTOMATIC1111
+2. Download the LORA and put it where it needs to be [AUTOMATIC1111/models/LORA]
+
+https://civitai.com/models/16579/muffet-undertale
+
+3. Prompts you can use (these are all the prompts I've used for the images!)
+
+Clothed
+
+<lora:muffetUndertale_v11:1>, Natural Volumetric Lighting And Best Shadows, Portrait Of Stunningly Beautiful Muffet, Spider Monster Girl, Soft Delicate Beautiful Attractive Face With Purple-Black Sclera 5 Eyes, (Periwinkle Purple Skin:1.2), Detailed 6 Arms And Hands, Lovely Medium Breasts, Seductive Smiling, Open Mouth With Cute Fangs Out, Thick Layered Black Pigtails Hairstyle, Red Hair Bows, Across Chest Ribbon Bow, Black-Red (Muffetwear:1.1), Rompers With Buttons, Bloomers Shorts, Garter Straps Belt, Spiderweb Pattern Thigh Highs, (Cakes And Pastry On Table For Afternoon Tea Party, Sugar Sweet Dessert Cafe:1.2), (Spider Webs Background:1.1), Standing, Holding Teapot And Teacup, Teapot Pouring Into Teacup, (Highest Quality, Amazing Details:1.4), (Masterpiece, Picturesque:1.2), Bloom, Brilliant Colorful Paintings 
+Negative prompt: (Worst quality, Low quality:1.4)
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3858637399, Size: 768x1056, Model hash: fbcf965a62, Model: anything-v4.5, Clip skip: 2, ENSD: 1337
+
+
+Nude
+
+<lora:muffetUndertale_v11:1>, Natural Volumetric Lighting And Best Shadows, Portrait Of Stunningly Beautiful Muffet, Spider Monster Girl, Soft Delicate Beautiful Attractive Face With Purple-Black Sclera 5 Eyes, (Periwinkle Purple Skin:1.2), Detailed 6 Arms And Hands, Lovely Huge Breasts, Seductive Smiling, (Highest Quality, Amazing Details:1.4), (Masterpiece, Picturesque:1.2), Bloom, Brilliant Colorful Paintings, Mature Female, MILF, topless, bottomless, nude
+Negative prompt: (Worst quality, Low quality:1.4)
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 1128418499, Size: 768x1056, Model hash: fbcf965a62, Model: anything-v4.5, Clip skip: 2, ENSD: 1337
