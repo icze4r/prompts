@@ -1,0 +1,10 @@
+Follow all the setup instructions in my video for Muffet
+
+Here is the prompt
+
+(masterpiece, best quality:1.1), ryouko_(tenchi_muyou!), looking at viewer, 1girl, solo, big hair, blue hair, spiked hair, pointy ears, red earrings, puffy sleeves, pelvic curtain, yellow eyes, large breasts, jacket, long sleeves, choker, red gloves, sash, red pantyhose, , retro artstyle, smug, smile <lora:ryokoTenchiMuyo_v10:1>
+Negative prompt: easynegative, (loli:1.2), (worst quality, low quality:1.4), (nsfw:1.1)
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1654151651, Size: 512x768, Model hash: 49ef66fc4c, Model: kotosmix_v10, Clip skip: 2, ENSD: 31337
+
+Koto's Mix: https://civitai.com/models/5245/kotosmix
+Ryoko LORA: https://civitai.com/models/21730/ryoko-tenchi-muyo
