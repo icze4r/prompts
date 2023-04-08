@@ -1,0 +1,33 @@
+Here are the complete prompts for my most-popular images
+
+MICHIRU KAGEMORI IN MICROBIKINI
+furry raccoon girl, 1girl, solo, multicolored eyes, raccoon ears, two-tone hair, (high quality, best quality), body fur, animal nose, long hair, micro bikini, tail, upper body, smile, huge breasts, mature female, milf, beach, sun, sunshine, blue sky, waves, <lora:michiruLora_v22N:1>
+
+Negative prompt: (worst quality, low quality:1.4), (bad_prompt_version2:0.7), (bad-artist:1.0), (boring_e621:1.0), braids, blurry, shiny, body fur, flat shading, shiny, pointing
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1835050534, Size: 768x1056, Model hash: a3355ad9d3, Model: lucidsMix_20AlphaTest, Clip skip: 2, ENSD: 1337
+
+
+RYOKO HAKUBI from Tenchi Muyou!
+(masterpiece, best quality:1.1), ryouko_(tenchi_muyou!), looking at viewer, 1girl, solo, big hair, blue hair, spiked hair, pointy ears, red earrings, puffy sleeves, pelvic curtain, yellow eyes, large breasts, jacket, long sleeves, choker, red gloves, sash, red pantyhose, , retro artstyle, smug, smile <lora:ryokoTenchiMuyo_v10:1>
+Negative prompt: easynegative, (loli:1.2), (worst quality, low quality:1.4), (nsfw:1.1)
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 108, Size: 768x1056, Model hash: 49ef66fc4c, Model: kotosmix_v10, Clip skip: 2, ENSD: 31337
+
+
+Shorts Michiru Kagemori
+<lora:michiruLora_michiruv3latest:1>, (michiru_kagemori, 1girl, solo), (raccoon_ears, raccoon_tail, two-tone_hair, short_hair, multicolored_eyes, body_fur, small_breasts, dark_body, fluffy_fur, brown_fur, intricate_fur:1.1), fantasy, anime, detailed, high_quality, absurdres, 8k, swim trunks, swimming trunks, shorts, swim shorts, topless, beach, blue sky
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1777847897, Size: 768x1056, Model hash: a3355ad9d3, Model: lucidsMix_20AlphaTest, Clip skip: 2, ENSD: 31337
+
+Bikini Sadayo Kawakami
+
+masterpiece, illustration, high quality, highres, volumetric lighting, dynamic angle, 1girl, solo, female focus, curvy, tired, expressions, string bikini, teacher P5_Kawakami,  beach, <lora:persona5PortraitLora_v03:0.05>, <lora:personaCatherineSoejima_1:0.05>, short hair, messy hair, brown eyes, <lora:persona5KawakamiSadayo_v01:0.8> , huge breasts, thick, smile, smug
+Negative prompt: (worst quality, low quality, border, lowres:1.4), (bad-artist-anime), easynegative, (loli), (teen), (child), (1girl), (close-up), (small breasts), (futanari:1.2), (multiple views:1.2), (watermark:1.2), (monochrome), (greyscale:1.2), (flat chest), (simple background) (blur), (badge:1.4) (button:1.2)
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 3400551101, Size: 512x768, Model hash: 5493a0ec49, Model: abyssorangemix3AOM3_aom3a1b, Clip skip: 2, ENSD: 31337
+
+
+Muffet from Undertale in pretty dresses :3c
+
+<lora:muffetUndertale_v11:1>, Natural Volumetric Lighting And Best Shadows, Portrait Of Stunningly Beautiful Muffet, Spider Monster Girl, Soft Delicate Beautiful Attractive Face With Purple-Black Sclera 5 Eyes, (Periwinkle Purple Skin:1.2), Detailed 6 Arms And Hands, Lovely Huge Breasts, Seductive Smiling, (Highest Quality, Amazing Details:1.4), (Masterpiece, Picturesque:1.2), Bloom, Brilliant Colorful Paintings, Mature Female, MILF, beautiful red and purple dress
+Negative prompt: (Worst quality, Low quality:1.4)
+Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 4073346510, Size: 768x1056, Model hash: fbcf965a62, Model: anything-v4.5, Clip skip: 2, ENSD: 31337
+
+
